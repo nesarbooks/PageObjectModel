@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="HRM Application Test Automation Suite" duration-ms="67104" started-at="2021-01-14T23:48:48Z" finished-at="2021-01-14T23:49:55Z">
+    <groups>
+    </groups>
+    <test name="HRM Test Cases" duration-ms="67104" started-at="2021-01-14T23:48:48Z" finished-at="2021-01-14T23:49:55Z">
+      <class name="com.HRM.PagesTestCases.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.HRM.PagesTestCases.HomePageTest@1ce92674]" name="setUp" is-config="true" duration-ms="6081" started-at="2021-01-14T18:49:07Z" finished-at="2021-01-14T18:49:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyHomePageTitle()[pri:0, instance:com.HRM.PagesTestCases.HomePageTest@1ce92674]" name="verifyHomePageTitle" duration-ms="310" started-at="2021-01-14T18:49:13Z" finished-at="2021-01-14T18:49:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.HRM.PagesTestCases.HomePageTest@1ce92674]" name="tearDown" is-config="true" duration-ms="1125" started-at="2021-01-14T18:49:13Z" finished-at="2021-01-14T18:49:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.HRM.PagesTestCases.HomePageTest@1ce92674]" name="setUp" is-config="true" duration-ms="6783" started-at="2021-01-14T18:49:14Z" finished-at="2021-01-14T18:49:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyUserName()[pri:0, instance:com.HRM.PagesTestCases.HomePageTest@1ce92674]" name="verifyUserName" duration-ms="65" started-at="2021-01-14T18:49:21Z" finished-at="2021-01-14T18:49:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserName -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.HRM.PagesTestCases.HomePageTest@1ce92674]" name="tearDown" is-config="true" duration-ms="639" started-at="2021-01-14T18:49:21Z" finished-at="2021-01-14T18:49:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.HRM.PagesTestCases.HomePageTest@1ce92674]" name="setUp" is-config="true" duration-ms="5741" started-at="2021-01-14T18:49:22Z" finished-at="2021-01-14T18:49:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyMyInfoLink()[pri:0, instance:com.HRM.PagesTestCases.HomePageTest@1ce92674]" name="verifyMyInfoLink" duration-ms="1003" started-at="2021-01-14T18:49:28Z" finished-at="2021-01-14T18:49:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMyInfoLink -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.HRM.PagesTestCases.HomePageTest@1ce92674]" name="tearDown" is-config="true" duration-ms="635" started-at="2021-01-14T18:49:29Z" finished-at="2021-01-14T18:49:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.HRM.PagesTestCases.HomePageTest -->
+      <class name="com.HRM.PagesTestCases.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.HRM.PagesTestCases.LoginPageTest@cb644e]" name="setUp" is-config="true" duration-ms="6337" started-at="2021-01-14T18:48:48Z" finished-at="2021-01-14T18:48:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginPageTitleTest()[pri:0, instance:com.HRM.PagesTestCases.LoginPageTest@cb644e]" name="loginPageTitleTest" duration-ms="20" started-at="2021-01-14T18:48:54Z" finished-at="2021-01-14T18:48:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.HRM.PagesTestCases.LoginPageTest@cb644e]" name="tearDown" is-config="true" duration-ms="712" started-at="2021-01-14T18:48:54Z" finished-at="2021-01-14T18:48:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.HRM.PagesTestCases.LoginPageTest@cb644e]" name="setUp" is-config="true" duration-ms="4692" started-at="2021-01-14T18:48:55Z" finished-at="2021-01-14T18:48:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="hrmLogoTest()[pri:0, instance:com.HRM.PagesTestCases.LoginPageTest@cb644e]" name="hrmLogoTest" duration-ms="83" started-at="2021-01-14T18:48:59Z" finished-at="2021-01-14T18:49:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hrmLogoTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.HRM.PagesTestCases.LoginPageTest@cb644e]" name="tearDown" is-config="true" duration-ms="637" started-at="2021-01-14T18:49:00Z" finished-at="2021-01-14T18:49:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.HRM.PagesTestCases.LoginPageTest@cb644e]" name="setUp" is-config="true" duration-ms="4738" started-at="2021-01-14T18:49:00Z" finished-at="2021-01-14T18:49:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.HRM.PagesTestCases.LoginPageTest@cb644e]" name="loginTest" duration-ms="1283" started-at="2021-01-14T18:49:05Z" finished-at="2021-01-14T18:49:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.HRM.PagesTestCases.LoginPageTest@cb644e]" name="tearDown" is-config="true" duration-ms="642" started-at="2021-01-14T18:49:06Z" finished-at="2021-01-14T18:49:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.HRM.PagesTestCases.LoginPageTest -->
+      <class name="com.HRM.PagesTestCases.MyInfoPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.HRM.PagesTestCases.MyInfoPageTest@6e1567f1]" name="setUp" is-config="true" duration-ms="6860" started-at="2021-01-14T18:49:29Z" finished-at="2021-01-14T18:49:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyPersonalDetailsLabel()[pri:0, instance:com.HRM.PagesTestCases.MyInfoPageTest@6e1567f1]" name="verifyPersonalDetailsLabel" duration-ms="62" started-at="2021-01-14T18:49:36Z" finished-at="2021-01-14T18:49:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPersonalDetailsLabel -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.HRM.PagesTestCases.MyInfoPageTest@6e1567f1]" name="tearDown" is-config="true" duration-ms="664" started-at="2021-01-14T18:49:36Z" finished-at="2021-01-14T18:49:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.HRM.PagesTestCases.MyInfoPageTest@6e1567f1]" name="setUp" is-config="true" duration-ms="6491" started-at="2021-01-14T18:49:37Z" finished-at="2021-01-14T18:49:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="editPersonalDetails(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.HRM.PagesTestCases.MyInfoPageTest@6e1567f1]" name="editPersonalDetails" duration-ms="1819" started-at="2021-01-14T18:49:44Z" data-provider="getHRMTestData" finished-at="2021-01-14T18:49:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Khawaza]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Metal]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[598.0]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[12345.0]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[9.87654321E8]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Married]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Australian]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- editPersonalDetails -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.HRM.PagesTestCases.MyInfoPageTest@6e1567f1]" name="tearDown" is-config="true" duration-ms="669" started-at="2021-01-14T18:49:46Z" finished-at="2021-01-14T18:49:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.HRM.PagesTestCases.MyInfoPageTest@6e1567f1]" name="setUp" is-config="true" duration-ms="7209" started-at="2021-01-14T18:49:46Z" finished-at="2021-01-14T18:49:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="clickOnJobTab()[pri:0, instance:com.HRM.PagesTestCases.MyInfoPageTest@6e1567f1]" name="clickOnJobTab" duration-ms="570" started-at="2021-01-14T18:49:54Z" finished-at="2021-01-14T18:49:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnJobTab -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.HRM.PagesTestCases.MyInfoPageTest@6e1567f1]" name="tearDown" is-config="true" duration-ms="639" started-at="2021-01-14T18:49:54Z" finished-at="2021-01-14T18:49:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.HRM.PagesTestCases.MyInfoPageTest -->
+    </test> <!-- HRM Test Cases -->
+  </suite> <!-- HRM Application Test Automation Suite -->
+</testng-results>

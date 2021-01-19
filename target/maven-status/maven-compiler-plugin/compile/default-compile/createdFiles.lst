@@ -1,0 +1,12 @@
+com\HRM\Pages\MyInfoPage.class
+com\HRM\Pages\RecruitmentPage.class
+com\HRM\ExtentreportListener\ExtentReportHRM.class
+com\HRM\Pages\HomePage.class
+com\HRM\base\TestBase.class
+com\HRM\Utility\TestUtil.class
+com\HRM\Pages\PerformancePage.class
+com\HRM\Pages\LoginPage.class
+com\HRM\Pages\DirectoryPage.class
+com\HRM\Pages\SignUpPage.class
+com\HRM\Pages\AdminPage.class
+com\HRM\Pages\PIMpage.class

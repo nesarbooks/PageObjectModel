@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [HRM Application Test Automation Suite]">
+  <listeners>
+    <listener class-name="com.HRM.ExtentreportListener.ExtentReportHRM"/>
+  </listeners>
+  <test name="HRM Test Cases(failed)">
+    <classes>
+      <class name="com.HRM.PagesTestCases.HomePageTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.HRM.PagesTestCases.HomePageTest -->
+      <class name="com.HRM.PagesTestCases.MyInfoPageTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="editPersonalDetails" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.HRM.PagesTestCases.MyInfoPageTest -->
+      <class name="com.HRM.PagesTestCases.LoginPageTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.HRM.PagesTestCases.LoginPageTest -->
+    </classes>
+  </test> <!-- HRM Test Cases(failed) -->
+</suite> <!-- Failed suite [HRM Application Test Automation Suite] -->

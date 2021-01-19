@@ -1,0 +1,3 @@
+com\HRM\PagesTestCases\LoginPageTest.class
+com\HRM\PagesTestCases\HomePageTest.class
+com\HRM\PagesTestCases\MyInfoPageTest.class
